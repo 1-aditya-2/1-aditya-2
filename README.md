@@ -55,6 +55,21 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and a Computer S
 
 ---
 
+## 💼 Experience
+
+### 🧪 Full Stack Engineering Intern — [TestRigor](https://www.testrigor.com/)
+**Mar 2024 – Mar 2025**  
+- Improved the test automation platform using React, Node.js, and Spring Boot  
+- Developed internal tools and dashboards for QA teams  
+- Integrated CI/CD workflows, enhanced deployment pipelines
+
+### 🌐 Frontend Development Intern — [Rablo.in](https://rablo.in/)
+**Jan 2024 - Mar 2024**  
+- Contributed to frontend development using React.js and Tailwind CSS  
+- Delivered user-facing features and optimized UI/UX performance  
+
+---
+
 ## 📚 Coursework
 - Operating Systems
 - System Design
@@ -75,8 +90,8 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and a Computer S
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratap-singh-a78511231/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meadisingh12@gmail.com)
 
 ---
 
