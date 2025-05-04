@@ -65,9 +65,9 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and a Computer S
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1-aditya-2&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-aditya-2&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1-aditya-2&show_icons=true&theme=tokyonight)
 
 ---
 
