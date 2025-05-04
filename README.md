@@ -57,7 +57,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and a Computer S
 
 ## 💼 Experience
 
-### 🧪 Full Stack Engineering Intern — [TestRigor](https://www.testrigor.com/)
+### 🧪 Full Stack Engineering Intern — [TestRigor](https://www.testrigor.com/) | [Github](https://github.com/aditya-singh12)
 **Mar 2024 – Mar 2025**  
 - Improved the test automation platform using React, Node.js, and Spring Boot  
 - Developed internal tools and dashboards for QA teams  
