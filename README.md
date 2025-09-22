@@ -6,12 +6,19 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and a Computer S
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE undergrad at IIIT Kottayam  
+- 🎓 B.Tech CSE undergrad at IIIT Kottayam
 - 🌱 Currently learning: **Advanced React, Spring Boot, System Design, DevOps**  
 - ⚡ Fun fact: I enjoy building side projects, contributing to open source, and exploring devtools  
 - 💬 Ask me about anything JavaScript, Java, or full-stack related!
 
 ---
+
+## 📚 Some Cool Projects
+
+- HostelBuddy -> A peer-to-pear object sharing platform [Link]{https://hostelbuddy-nine.vercel.app/}
+- ChatterApp -> A scable chatting app [Link]{}
+- RAG new chatbot -> A chatbot for for news enthusiasts [Link]{https://rag-client1.onrender.com/}
+- Bug Tracker -> A easy to use bug tracker [Link]{https://bug-tracker-1-22qf.onrender.com/}
 
 ## 🧠 Core Skills
 
@@ -57,16 +64,17 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and a Computer S
 
 ## 💼 Experience
 
-### 🧪 Full Stack Engineering Intern — [TestRigor](https://www.testrigor.com/) | [Github](https://github.com/aditya-singh12)
-**Mar 2024 – Mar 2025**  
+### 🌐 SDE Intern — [WorkIndia]
+**May 2025 - Present**  
+-  Integrated AutoPay system
+-  Troubleshoot N+1 query problem and refactored modules
+-  Upgraded checkout pages using Next.js  
+
+### 🧪 Full Stack Engineering Intern — [TestRigor]
+**Sept 2024 – Mar 2025**  
 - Improved the test automation platform using React, Node.js, and Spring Boot  
 - Developed internal tools and dashboards for QA teams  
 - Integrated CI/CD workflows, enhanced deployment pipelines
-
-### 🌐 Frontend Development Intern — [Rablo.in](https://rablo.in/)
-**Jan 2024 - Mar 2024**  
-- Contributed to frontend development using React.js and Tailwind CSS  
-- Delivered user-facing features and optimized UI/UX performance  
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and a Computer S
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1-aditya-2&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=1-aditya-2&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-aditya-2&layout=compact&theme=tokyonight)
 
